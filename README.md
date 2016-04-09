@@ -1,2 +1,3 @@
 # hello-world
-first example
+
+This is Kyunam.
